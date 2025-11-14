@@ -1,0 +1,37 @@
+[
+  {
+    "name": "AI Chatbot",
+    "description": "A lightweight conversational AI chatbot built with Python that demonstrates NLP text generation and interactive chatting.",
+    "screenshot": "screenshots/ai-chatbot.png",
+    "demo": "https://rabdul585.github.io/AI/chatbot/",
+    "path": "chatbot"
+  },
+  {
+    "name": "Image Classification Model",
+    "description": "Deep learning-based image classifier using TensorFlow/PyTorch with a web demo and prediction output.",
+    "screenshot": "screenshots/image-classifier.png",
+    "demo": "https://rabdul585.github.io/AI/image-classifier/",
+    "path": "image-classifier"
+  },
+  {
+    "name": "Audio Classifier",
+    "description": "A simple audio event detection model with spectrogram visualization and prediction results.",
+    "screenshot": "screenshots/audio-classifier.png",
+    "demo": "",
+    "path": "audio-classifier"
+  },
+  {
+    "name": "Object Detection (Vision)",
+    "description": "YOLO-based object detection model demo showcasing bounding boxes, labels, and real-time inference.",
+    "screenshot": "screenshots/object-detection.png",
+    "demo": "https://rabdul585.github.io/AI/vision/",
+    "path": "vision"
+  },
+  {
+    "name": "Text Summarizer",
+    "description": "An AI-powered text summarization tool that condenses long content into short summaries using transformer models.",
+    "screenshot": "screenshots/text-summarizer.png",
+    "demo": "",
+    "path": "text-summarizer"
+  }
+]
